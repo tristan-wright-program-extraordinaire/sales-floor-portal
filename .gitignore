@@ -1,0 +1,5 @@
+/.DS_Store
+/.venv
+*.pyc
+frontend/node_modules
+db.sqlite3
